@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "id": "@shopgate/Engage Translations Demo",
+  "components": [
+    {
+      "id": "PageContentBefore",
+      "path": "frontend/portals/PageContentBefore/index.jsx",
+      "target": "page.content.before",
+      "type": "portals"
+    },
+    {
+      "type": "translations",
+      "path": "frontend/locale/de-DE.json",
+      "id": "locale/de-DE"
+    },
+    {
+      "type": "translations",
+      "path": "frontend/locale/en-US.json",
+      "id": "locale/en-US"
+    }
+  ],
+  "configuration": {}
+}

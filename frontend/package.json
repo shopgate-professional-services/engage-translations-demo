@@ -1,0 +1,14 @@
+{
+  "name": "@shopgate/engage-translations-demo",
+  "version": "1.0.0",
+  "description": "Shopgate Engage translation system demo",
+  "license": "Apache-2.0",
+  "scripts": {},
+  "devDependencies": {
+    "@shopgate/engage": "^6.7.0"
+  },
+  "dependencies": {},
+  "peerDependenciees": {
+    "@shopgate/engage": "^6.7.0"
+  }
+}
