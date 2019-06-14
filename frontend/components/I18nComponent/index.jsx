@@ -1,5 +1,5 @@
 import React from 'react';
-import I18n from '@shopgate/engage/components';
+import { I18n } from '@shopgate/engage/components';
 
 const I18nComponent = () => (
   <section>

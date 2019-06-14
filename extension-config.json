@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "id": "@shopgate/Engage Translations Demo",
+  "version": "1.0.0",
+  "id": "@shopgate-project/engage-translations-demo",
   "components": [
     {
       "id": "PageContentBefore",

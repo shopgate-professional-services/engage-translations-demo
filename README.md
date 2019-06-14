@@ -3,6 +3,10 @@
 ## Purpose
 This extension is a showcase of different ways to translate strings in Shopgate Engage frontend system.
 
+It's not intended to be used in a deployed environment. It's made solely for testing and documentation processes.
+
+Requires PWA 6.7.0.
+
 ## About Shopgate
 
 Shopgate is the leading mobile commerce platform.
