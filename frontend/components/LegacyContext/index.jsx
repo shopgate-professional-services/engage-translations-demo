@@ -15,7 +15,7 @@ class LegacyContext extends Component {
       _t,
     } = this.context.i18n();
     const translatedString = __('demo.test.string', { type: 'legacy context'});
-    const translatedPrice = _p(1000, 'USD', 2);
+    const translatedPrice = _p(1000, 'USD', true);
     const translatedNumber = _n(1000, 2);
     const translatedDate = _d(Date.now());
     const translatedTime = _t(Date.now());
